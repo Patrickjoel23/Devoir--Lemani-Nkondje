@@ -1,0 +1,54 @@
+[
+    {
+        "dateDeDebut": "2023-01-01",
+        "dateDeFIn": "2023-06-01",
+        "nom": "Projet Alpha",
+        "nombreHeureTotal": 1200,
+        "listOfDisciplines": [
+            {
+                "nombreHeure": 550,
+                "nom": "Développement"
+            },
+            {
+                "nombreHeure": 90,
+                "nom": "Design"
+            }
+        ],
+        "employe": [
+            {
+                "nom": "Joel",
+                "numeroID": 123
+            },
+            {
+                "nom": "Charlie",
+                "numeroID": 67890
+            }
+        ]
+    },
+    {
+        "dateDeDebut": "2023-02-01",
+        "dateDeFIn": "2023-07-01",
+        "nom": "Projet Beta",
+        "nombreHeureTotal": 1500,
+        "listOfDisciplines": [
+            {
+                "nombreHeure": 500,
+                "nom": "Testing"
+            },
+            {
+                "nombreHeure": 500,
+                "nom": "Documentation"
+            }
+        ],
+        "employe": [
+            {
+                "nom": "Alex",
+                "numeroID": 234
+            },
+            {
+                "nom": "Eve",
+                "numeroID": 98765
+            }
+        ]
+    }
+]
